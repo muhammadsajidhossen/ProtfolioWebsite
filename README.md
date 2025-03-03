@@ -1,6 +1,6 @@
 # Sajid Hossen's Portfolio
 
-This is a personal portfolio website built with HTML and CSS. It showcases a simple and elegant layout with responsive design elements, providing an overview of Sajid Hossen's academic background and aspirations. The website features various sections such as the home page, about, services, portfolio, and contact information.
+This is a personal portfolio website built with HTML and CSS. It showcases a simple and elegant layout with responsive design elements, providing an overview of my academic background and aspirations. The website features various sections such as the home page, about, services, portfolio, and contact information.
 
 ## Technologies Used
 
