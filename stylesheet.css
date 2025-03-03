@@ -32,17 +32,7 @@ body{
     font-weight: 600;
 }
 
-/*.logo::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 100%; 
-    height: 100%; 
-    background-color: #081b29; 
-    animation: showRight 1s ease forwards;
-    animation-delay: 1s;
-}*/
+
 
 .navbar a {
     font-size: 20px;
@@ -174,21 +164,6 @@ body{
     color: #00abf0;
 }
 
-.buttonbox a::before{
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 0;
-    height: 100%;
-    background: green;
-    z-index: -1;
-}
-
-.buttonbox a::hover::before{
-    width: 100%;
-}
-
 .homesci{
     position: absolute;
     bottom: 40px;
@@ -228,7 +203,7 @@ body{
 .imagebox img{
     
     border-radius: 100%;
-    width: 450px;   
+    width: 350px;   
 }
 
 
