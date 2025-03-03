@@ -207,6 +207,17 @@ body{
 }
 
 
+.phone-number {
+    display: none;
+    font-size: 18px;
+    color: #00abf0; 
+}
+
+
+.contact:hover .phone-number {
+    display: inline-block;
+    margin-left: 10px;
+}
 
 @keyframes showRight {
     100%{
