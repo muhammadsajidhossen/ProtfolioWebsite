@@ -216,8 +216,53 @@ body{
 
 .contact:hover .phone-number {
     display: inline-block;
-    margin-left: 10px;
+    margin-left: 10px; 
 }
+
+.about {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 10%;
+    height: 100vh;
+    background: #081b29;
+    color: white;
+    font-weight: 600;
+}
+
+
+.skills, .projects {
+    width: 45%;
+}
+
+.skills h2, .projects h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #00abf0;
+}
+
+.skill-icons img {
+    width: 80px;
+    margin: 10px;
+}
+
+.project-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.project-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.project-item img {
+    width: 100px;
+    border-radius: 8px;
+}
+
 
 @keyframes showRight {
     100%{
